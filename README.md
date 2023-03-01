@@ -21,4 +21,4 @@ A web app that lets you play music and control a Pomodoro timer.
 
 Since this is a simple tool I decided to use [excalidraw ](https://excalidraw.com/) to mockup the design
 
-! [mobile and desktop wireframe of the study tool](/mockup-v1.svg)
+![mobile and desktop wireframe of the study tool](mockup-v1.svg)

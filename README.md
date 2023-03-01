@@ -9,10 +9,15 @@ A web app that lets you play music and control a Pomodoro timer.
 - set timer lengths, start stop, notifications? 
 - keep up with sessions completed
 - Make account and store sessions and remember playlists
+- custom icons for playlists
 
 ## Technologies
 
 - React, Vite, Jsx
 - Express, Node
 - maybe look into BlueprintJS for UI or stick with Bootstrap since familiar
+
+## Development Process
+
+Since this is a simple tool I decided to use [excalidraw ](https://excalidraw.com/) to mockup the design
 
